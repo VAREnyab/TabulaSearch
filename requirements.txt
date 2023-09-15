@@ -3,3 +3,6 @@ pandas
 pandasai
 openai
 matplotlib
+PyQt5
+tk
+beautifulsoup4
