@@ -1,2 +1,3 @@
 pandasai
 matplotlib
+BeautifulSoup4
