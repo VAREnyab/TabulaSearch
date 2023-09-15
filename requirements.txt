@@ -1,6 +1,6 @@
 streamlit
 pandas
-pandasai
+pandasai==0.2.2
 openai
 matplotlib
 PyQt5
